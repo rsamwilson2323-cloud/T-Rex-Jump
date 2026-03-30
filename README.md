@@ -24,6 +24,7 @@ Jump over obstacles, duck birds, and survive as long as possible while your spee
 T-Rex-Jump/
 │
 ├── T-Rex jump.py              # Main game file
+├── requirements.txt
 ├── T-Rex jump google hack code.txt
 ├── highscore.txt              # Stores high score
 ├── README.md                  # Project documentation
